@@ -1,0 +1,7 @@
+dataset: Farmer.csv
+features:
+- Total Cases
+- Eligible
+- Ineligible
+- Pending for Inquiry
+target: target

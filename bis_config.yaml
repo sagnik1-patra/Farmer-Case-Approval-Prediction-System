@@ -1,0 +1,7 @@
+algorithm: Hybrid BA + AIS
+features:
+- Total Cases
+- Eligible
+- Ineligible
+- Pending for Inquiry
+target: target

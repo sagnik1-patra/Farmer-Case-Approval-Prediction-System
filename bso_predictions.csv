@@ -1,0 +1,14 @@
+Month,Total Cases,Eligible,Ineligible,Pending for Inquiry,target,Prediction
+Jan-25,6,6,0,0,0,0
+Feb-25,5,5,0,0,0,0
+Mar-25,5,5,0,0,0,0
+Apr-25,4,4,0,0,0,0
+May-25,10,10,0,0,0,0
+Jun-25,6,6,0,0,0,0
+Jul-25,11,8,3,0,0,0
+Aug-25,6,6,0,0,0,0
+Sep-25,7,6,1,0,0,0
+Oct-25,7,5,0,2,1,0
+Nov-25,3,2,0,1,1,0
+Dec-25,6,1,0,5,1,0
+Total,76,64,4,8,1,1

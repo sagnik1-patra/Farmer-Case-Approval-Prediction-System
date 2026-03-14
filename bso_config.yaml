@@ -1,0 +1,7 @@
+algorithm: Hybrid PSO + BA
+features:
+- Total Cases
+- Eligible
+- Ineligible
+- Pending for Inquiry
+target: target

@@ -1,0 +1,7 @@
+algorithm: Hybrid AIS + PSO
+features:
+- Total Cases
+- Eligible
+- Ineligible
+- Pending for Inquiry
+target: target
